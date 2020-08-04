@@ -1,5 +1,4 @@
-display_board="Tic Tac Toe Board"
-
+def display_board
 puts "   |   |   "
 puts "-----------"
 puts "   |   |   "
